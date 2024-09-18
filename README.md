@@ -18,8 +18,7 @@
 <br>
 
 
-*  Kindly refer our paper when using Urdu-FlickrF8k DataSet
+Kindly refer our paper when using Urdu-FlickrF8k DataSet
 
 *  Humyun Shakeel Khan, Rimsha Muzaffar, Syed Yasser Arafat and Zains Irshad, "Deep Learning-Based Urdu Image Captioning," 2024 International Conference on Engineering & Computing Technologies (ICECT), Islamabad, Pakistan, 2024, pp. 1-8, doi: 10.1109/ICECT61618.2024.10581206.
-
-*  *  https://ieeexplore.ieee.org/document/10581206
+*  https://ieeexplore.ieee.org/document/10581206
