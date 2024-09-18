@@ -1,4 +1,4 @@
-# MUST-UrduF8k_Flicker8K
+# MUST-UrduF8k DataSet (inspired from Flicker8K)
 
 ## Sample Images
 ![WhatsApp Image 2024-09-18 at 11 31 31 AM](https://github.com/user-attachments/assets/27b2e34d-9d5a-4992-b88b-7a2f0b5593c2) 
