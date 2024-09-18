@@ -8,7 +8,8 @@
 <br>
 
 # Steps in DataSet Creation ( Urdu-FlickrF8K Dataset Creation Process )
-![WhatsApp Image 2024-09-18 at 11 30 32 AM (1)](https://github.com/user-attachments/assets/00aac8f4-2413-4730-99b9-34c098947148)
+![New_2](https://github.com/user-attachments/assets/a7b869eb-89c7-4319-8ca3-ff925e0ff49c)
+
 <br>
 <br>
 
